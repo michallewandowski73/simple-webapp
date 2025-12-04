@@ -60,4 +60,5 @@ def delete_note(note_id):
 
 if __name__ == "__main__":
     # Local dev
+    print("App started successfully!")
     app.run(debug=True)
